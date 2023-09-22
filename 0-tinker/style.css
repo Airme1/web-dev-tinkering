@@ -9,6 +9,7 @@
     width: 500px;
     padding: 50px;
     margin: 20px auto;
+    background-color: yellow;
   }
   
   
@@ -17,5 +18,4 @@
     height: 150px;
     background-color: #efb762;
     margin: 20px auto;
-    
   }
